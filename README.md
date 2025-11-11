@@ -1,5 +1,95 @@
 [ResumeSketches.docx](https://github.com/user-attachments/files/23106186/ResumeSketches.docx)
 Here is My Resume in .docx extension, however i wrote it below too
+
+Tailov Rabadan Rasulovich
+Makhachkala 
+Email: trabadan24@gmail.com
+Phone number: +7 963 410 98 59
+GitHub: https://github.com/TailovRabadan
+
+Target:
+A passionate and driven developer with deep knowledge of C#, WPF, and SQL, acquired through four years of formal training and one year of intensive independent project work. I am looking to join a team of developers to create effective desktop applications, solve problems of varying complexity, work in a team, and develop as a software development specialist.
+
+Technical Skills:
+●Languages:
+◦C#
+◦XAML
+◦SQL
+◦JavaScript
+◦HTML
+◦CSS
+●Frameworks:
+◦.NET
+◦WPF
+●Tools:
+◦Visual studio
+◦Visual studio code
+◦Git
+◦GitHub
+◦Microsoft SQL Management Studio
+●Concepts:
+◦Object - Oriented Programming (OOP)
+◦Asynchronous Programming
+◦Monolith
+●Soft Skills:
+◦Communication
+◦Cooperative
+◦Quick learner
+◦Progressive
+◦Proactive
+
+Personal projects:
+●Task tracking software stylised as pixel RPG game.
+◦Technologies used in development:
+‒С#
+‒WPF
+◦Concepts used in development:
+‒Async methods
+‒Object - Oriented Programming (OOP)
+‒Monolith structure
+‒Use of GitHub repository and active interaction with it
+◦Features of the developed application:
+‒Use of local text files to store user progress data (character name, level, stats, inventory, and tasks), as well as configuration settings (volume, brightness, gamma, and language)
+‒Use of animation of XAML design elements, implemented using C# in the logical part of the XAML page
+‒Access control and encapsulation, as well as class inheritance, overloading, and modification of basic WPF methods (for example, to create an autosave when the application is closed)
+‒Possibility of further modernization and adaptation to the required requirements Software solution requirements
+‒Completely self-developed, without the use of third-party resources other than those built into the .NET development environment
+◦The code can be found in this GitHub repository.
+●A messenger program for exchanging messages within a company's office
+◦Technologies used in development:
+‒C#
+‒WPF
+‒SQL
+◦Concepts used in development:
+‒Object - Oriented programming (OOP)
+‒Monolith structure
+‒Use of the ADO.NET model
+‒Use of a GitHub repository
+◦Features of the developed application:
+‒Centralized information storage achieved through the use of a database and DBMS 
+‒Use of animation of XAML markup design elements, implemented using C# in the logical part of the XAML page
+‒Access level differentiation
+‒Completely self-developed, without the use of third-party resources other than those built into the .NET development environment and Microsoft SQL Management Studio
+◦The code can be found in this GitHub repository.
+●CRM solution for a parcel delivery network and tracking packages from the point of origin to the pickup point (Developed as part of a thesis)
+◦Technologies used in development:
+‒C#
+‒WPF
+‒SQL
+◦Concepts used in development:
+‒Object - Oriented programming (OOP)
+‒Monolith structure
+‒Use of the ADO.NET model
+‒Use of GitHub repository
+◦Features of the developed application:
+‒Dividing access levels to the application depending on the account role, the data for which is stored in the database
+‒Centralized storage of information achieved through the use of a database and DBMS 
+‒Plotting a route from point A to point B in real time, taking traffic into account
+‒Parcel tracking at all stages of transportation, creating a delivery request, calculating the delivery cost taking into account Distance and selected delivery rate (parcel size and weight)
+‒Management of a parcel pickup point and delivery of delivered parcels, including maintaining warehouse records at the pickup point, generating and printing delivery labels for parcels, and verifying the parcel recipient against the actual recipient.
+‒Tracking delivery requests, printing receipts for completed delivery orders, and plotting a route from point A to point B in real time, taking traffic into account.
+◦The code can be found in this GitHub repository.
+
 Это моё резюме, однако, я также написал его ниже
 
 Таилов Рабадан Расулович
